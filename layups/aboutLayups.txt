@@ -1,0 +1,2 @@
+The python file that created the layup csv files was deleted when transferring.
+Refer to attemptedCreating.py, creating3s.py, and creating2s.py for reference.
